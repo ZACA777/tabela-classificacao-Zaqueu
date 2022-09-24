@@ -18,6 +18,11 @@ body {
   height: 100vh;
 }
 
+.tabela {
+  max-width: 900px;
+  margin: auto;
+}
+
 .page-title {
   color: #ffffff;
   margin: 0 0 5px;
